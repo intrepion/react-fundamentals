@@ -4,7 +4,7 @@
   "description": "Following the tutorial here: https://egghead.io/series/react-fundamentals",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
