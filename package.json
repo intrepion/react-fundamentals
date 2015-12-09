@@ -1,0 +1,19 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "Following the tutorial here: https://egghead.io/series/react-fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intrepion/react-fundamentals.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intrepion/react-fundamentals/issues"
+  },
+  "homepage": "https://github.com/intrepion/react-fundamentals#readme"
+}
